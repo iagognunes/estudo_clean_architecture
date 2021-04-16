@@ -1,5 +1,5 @@
 import 'package:estudo_clean_architecture/core/error/exceptions.dart';
-import 'package:estudo_clean_architecture/core/platform/network_info.dart';
+import 'package:estudo_clean_architecture/core/network/network_info.dart';
 import 'package:estudo_clean_architecture/features/number_trivia/data/datasources/number_trivia_local_data_source.dart';
 import 'package:estudo_clean_architecture/features/number_trivia/data/datasources/number_trivia_remote_data_source.dart';
 import 'package:estudo_clean_architecture/features/number_trivia/domain/entities/number_trivia.dart';
